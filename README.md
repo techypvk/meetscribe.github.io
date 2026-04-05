@@ -1,2 +1,2 @@
 # meetscribe.github.io
-app-ads.txt
+google.com, pub-5721711860710941, DIRECT, f08c47fec0942fa0
